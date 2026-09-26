@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-politics-feeds",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Politics Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-0191104a8302ce89307c4c7dc36396bdfafa2cd300d7aa0c7e1d6b9d9b364854",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-d45109b65e3540854ec7ce29fe9291e993b2cb1129f9462d3a68092050b71211",
+    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
   }
 }
