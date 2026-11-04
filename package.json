@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-politics-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Politics Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "politics-feeds",
     "gatewaySlug": "politics-feeds",
-    "sourceHash": "v1-94b5bd102bd696975329321ce109abe1ef20f659367735873679ea69a0230fed",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-9cad045a3bf61714f79869fbe22f8486bef5740b20ab299aa3921b9dd9d3b92f",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
